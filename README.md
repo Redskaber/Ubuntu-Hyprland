@@ -1,4 +1,7 @@
+## IMPORTANT! Beginning of March 2026, This project will be archived and it will be maintained by Dwilliams
+- https://github.com/LinuxBeginnings
 
+ 
 <div align="center">
 
 # 💌 KooL's Ubuntu Hyprland Install Script 💌
